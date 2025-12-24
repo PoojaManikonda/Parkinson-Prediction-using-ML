@@ -38,6 +38,7 @@ Python, pandas, NumPy, scikit-learn, imbalanced-learn, matplotlib, xgboost
 ![ROC Curve](images/ROC-Comparision_RF_Vs_XGB.png)
 
 📘 Project Reference & Acknowledgement
+
 This project is a simulation and independent implementation inspired by a tutorial published on GeeksforGeeks titled "Parkinson Disease Prediction using Machine Learning - Python."
 
 The project was executed step-by-step to strengthen the practical understanding of healthcare data preprocessing, exploratory analysis, class balancing, and predictive modeling.
@@ -46,8 +47,10 @@ All code was executed, interpreted, and further evaluated independently for impr
 
 Reference: https://www.geeksforgeeks.org/machine-learning/parkinson-disease-prediction-using-machine-learning-python/
 
-👩‍⚕️ Author
+👩‍⚕️ Author:
+
 Pooja Manikonda
+
 MS Health Informatics
 
 
